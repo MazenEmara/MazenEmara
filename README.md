@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Mazen Emara</h1>
-<h3 align="center">Data Scientist • Software Engineer • AI & Finance Enthusiast</h3>
+<h3 align="center">Data Scientist • Software Engineer</h3>
 
 ---
 
