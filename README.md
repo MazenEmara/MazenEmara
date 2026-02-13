@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 BSc in Computer Science (Major: Data Science, Minor: Software Engineering)
 - 💼 Full-time Data Scientist @ Cairo Capital Group
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Technical Stack
+## Technical Stack
 
 ### 💻 Programming
 `Python` `C#` `Java` `C++` `SQL`
@@ -41,7 +41,7 @@
 
 ---
 
-## 💼 Enterprise Contributions
+## Enterprise Contributions
 
 > 🚧 I actively contribute to private production AI models,  
 > financial systems, and enterprise-grade applications  
