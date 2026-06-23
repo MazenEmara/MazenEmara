@@ -6,7 +6,7 @@
 ## About Me
 
 - 🎓 BSc in Computer Science (Major: Data Science, Minor: Software Engineering)
-- 💼 Full-time Data Scientist @ Cairo Capital Group
+- 💼 Full-time Data Scientist @ABS
 - 📊 Building financial analytics & time-series models
 - 💻 Developing production full-stack systems
 - 📱 Building mobile apps with Flutter
