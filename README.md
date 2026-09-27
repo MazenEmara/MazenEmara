@@ -6,7 +6,7 @@
 ## About Me
 
 - 🎓 BSc in Computer Science (Major: Data Science, Minor: Software Engineering)
-- 💼 Data Scientist II @ABS
+- 💼 Full-Stack Developer @CCG
 - 📊 Building financial analytics & time-series models
 - 💻 Developing production full-stack systems
 - 📱 Building mobile apps with Flutter
